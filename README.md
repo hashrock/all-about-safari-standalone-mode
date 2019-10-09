@@ -9,7 +9,9 @@ I'll write in Japanese at first, then I'll translate into English later. PR welc
 - 最初は日本語で書きます。TODO になっている部分にも PR いただけるとありがたいです。
 - issue は極力英語で立ててください。
 
-## 最低限のサンプル, Minimal Example
+## Example
+
+- [最低限のサンプル](https://all-about-safari-standalone-mode.netlify.com/examples/001/)
 
 ## ページ遷移
 
