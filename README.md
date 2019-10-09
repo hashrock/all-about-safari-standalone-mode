@@ -2,7 +2,7 @@
 
 A community-curated list of iOS Safari `apple-mobile-web-app-capable` issues and workarounds for them.
 
-aka `web app` mode, `WebClip`, `fullscreen mode`, `standalone`, etc...
+aka `full screen web apps` mode, `WebClip`, `standalone`, etc...
 
 I'll write in Japanese at first, then I'll translate into English later. PR welcome.
 
